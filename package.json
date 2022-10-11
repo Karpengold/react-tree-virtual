@@ -1,6 +1,6 @@
 {
   "name": "react-tree-virtual",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Tree View with virtualization support",
   "author": "karpengold",
   "license": "MIT",
